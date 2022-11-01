@@ -8,9 +8,8 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Medicare Portugal**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
+- 🏢 I'm currently working at **Hospital pharmacy**
+- ⚙️ I use daily: **Python**, **Pandas**, **NumPy**, **Scikit-learn**
 - 🌱 Learning all about **Machine learning**
 - 📫 Reach me: [Telegram](https://t.me/seblful)
 - ⚡️ Fun fact: I'm actually pharmacist
