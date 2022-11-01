@@ -9,7 +9,6 @@
 ##### BIO
 
 - 🏢 I'm currently working at **Hospital pharmacy**
-- ⚙️ I use daily: **Python**, **Pandas**, **NumPy**, **Scikit-learn**
 - 🌱 Learning all about **Machine learning**
+- ⚙️ I use daily: **Python**, **Pandas**, **NumPy**, **Scikit-learn**
 - 📫 Reach me: [Telegram](https://t.me/seblful)
-- ⚡️ Fun fact: I'm actually pharmacist
