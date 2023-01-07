@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Junior Data Scientist from Belarus
+#### I'm Data Scientist from Belarus
 
 ##### NOW
 
@@ -9,5 +9,5 @@
 ##### BIO
 
 - 🌱 Learning all about **Machine learning**
-- ⚙️ I use daily: **Python**, **Pandas**, **NumPy**, **Scikit-learn**
+- ⚙️ I use daily: **Python**, **Pandas**, **NumPy**, **Scikit-learn**, **TensorFlow**
 - 📫 Reach me: [Telegram](https://t.me/seblful)
