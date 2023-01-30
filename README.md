@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Learning Neural Networks 
+- ✨ Working with Computer Vision project
 
 ##### BIO
 
