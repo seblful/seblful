@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Working with Computer Vision project
+- ✨ Working with Computer Vision projects
 
 ##### BIO
 
