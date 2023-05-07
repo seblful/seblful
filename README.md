@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://i.ibb.co/VpCTXMN/github-card.png" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Hi there! I'm Lesha, ML-engineer 👨‍💻</div>  
   
 
