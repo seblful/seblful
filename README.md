@@ -20,13 +20,15 @@
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>
 </div>
 </td></tr></table>  
 
 
 ## Github Stats  
-<a href="https://github.com/seblful/seblful"><img align="center" src="https://github-readme-stats.vercel.app/api?username=seblful&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Lesha Chimba's github stats" /></a> <a href="https://github.com/seblful/seblful"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seblful&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/seblful/seblful"><img align="center" src="https://github-readme-stats.vercel.app/api?username=seblful&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Lesha Chimba's github stats" /></a> 
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=seblful&&style=flat-square" align="center" />
