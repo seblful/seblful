@@ -1,13 +1,10 @@
 ### <div align="center">Hi there! I'm Lesha, ML-engineer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Pills Segmentation model](https://github.com/seblful/pills-segmentation)  
+- 🌱 I’m currently working on my hospital project 
   
 
-- 🌱 I’m currently learning Generative pre-trained transformers  
-  
-
-- ⚙️ I use daily: Python TensorFlow, PyTorch, Git  
+- ⚙️ I use daily: Python TensorFlow, PyTorch, Git, Docker 
   
 
 <br/>  
