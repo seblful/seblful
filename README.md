@@ -28,7 +28,7 @@
 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=seblful&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=seblful&&style=for-the-badge" align="center" />
 </div>  
 <div align="center"></div>
 
