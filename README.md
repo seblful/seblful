@@ -1,5 +1,7 @@
 ### <div align="center">Hi there! I'm Lesha, ML-engineer 👨‍💻</div>  
   
+- 💊 Passionate about Machine Learning and Pharmacy
+
 
 - 🌱 I’m currently working on my hospital project 
   
