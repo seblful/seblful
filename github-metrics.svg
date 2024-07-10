@@ -233,11 +233,10 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="652.1090212973568" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="652.1090212973568" y="0" width="194.2543857835699" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="846.3634070809267" y="0" width="72.42887443614308" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="918.7922815170697" y="0" width="0.9813901373102732" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="919.77367165438" y="0" width="0.2263283456200049" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="826.6537032281058" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="826.6537032281058" y="0" width="91.81531817205034" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="918.4690214001562" y="0" width="1.2440707992431588" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="919.7130921993993" y="0" width="0.28690780060065096" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -245,12 +244,6 @@
                             <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Python
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        C#
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
