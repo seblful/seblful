@@ -1,24 +1,4 @@
-<a href="https://github.com/seblful#">
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
-</a>
-  
-- Passionate about Machine Learning and Pharmacy
-
-- I’m currently working on my hospital project 
-
-- Skills: <span style="display: inline-block;">
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="20" /></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="20" /></a>
-  <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="20" /></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="20" /></a>
-  <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="20" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="20" /></a>
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="20" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="20" /></a>
-  <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="20" /></a>
-</span>
+![Metrics](https://metrics.lecoq.io/seblful?template=classic&base.indepth=true&base.hireable=true&repositories.forks=true&base.metadata=0&isocalendar=1&topics=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=half-year&topics=false&topics.mode=icons&topics.sort=stars&topics.limit=50&introduction=false&introduction.title=true&config.timezone=Asia%2FBaghdad&config.display=large)
 
 - Connect with me: <span style="display: inline-block;">
     <a href="https://linkedin.com/in/leshachimba/" target="_blank" class="follow-button"><img width="20" height="20" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"></a>
