@@ -34,6 +34,5 @@ jobs:
           plugin_introduction_title: yes
           plugin_topics: yes
           plugin_topics_limit: 20
-
-          introduction: |
-            Hello! I'm John Doe, a software engineer passionate about building cool stuff.
+          plugin_topics_mode: icons
+          plugin_topics_sort: stars
