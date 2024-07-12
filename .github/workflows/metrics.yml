@@ -29,6 +29,7 @@ jobs:
           base_indepth: yes
           config_display: large
           config_timezone: Europe/Minsk
+          repositories_forks: yes
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_topics: yes
